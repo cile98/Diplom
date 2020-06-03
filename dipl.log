@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  3 JUN 2020 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  3 JUN 2020 18:17
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -996,34 +996,34 @@ Overfull \hbox (21.85445pt too wide) in paragraph at lines 138--139
  []
 
 [6]
-<1.png, id=38, 502.12593pt x 135.50626pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 152.
+<pics/1.png, id=38, 502.12593pt x 135.50626pt>
+File: pics/1.png Graphic file (type png)
+<use pics/1.png>
+Package pdftex.def Info: pics/1.png  used on input line 152.
 (pdftex.def)             Requested size: 502.12471pt x 135.5059pt.
 
 Overfull \hbox (15.8671pt too wide) in paragraph at lines 152--153
  [] 
  []
 
-<2.png, id=39, 373.395pt x 248.93pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 159.
+<pics/2.png, id=39, 373.395pt x 248.93pt>
+File: pics/2.png Graphic file (type png)
+<use pics/2.png>
+Package pdftex.def Info: pics/2.png  used on input line 159.
 (pdftex.def)             Requested size: 373.39409pt x 248.92938pt.
-[7 <./1.png>] [8 <./2.png>]
-<4.png, id=49, 200.75pt x 200.75pt>
-File: 4.png Graphic file (type png)
-<use 4.png>
-Package pdftex.def Info: 4.png  used on input line 182.
+[7 <./pics/1.png>] [8 <./pics/2.png>]
+<pics/4.png, id=49, 200.75pt x 200.75pt>
+File: pics/4.png Graphic file (type png)
+<use pics/4.png>
+Package pdftex.def Info: pics/4.png  used on input line 182.
 (pdftex.def)             Requested size: 120.45091pt x 120.45091pt.
-<5.png, id=50, 203.5605pt x 219.219pt>
-File: 5.png Graphic file (type png)
-<use 5.png>
-Package pdftex.def Info: 5.png  used on input line 188.
+<pics/5.png, id=50, 203.5605pt x 219.219pt>
+File: pics/5.png Graphic file (type png)
+<use pics/5.png>
+Package pdftex.def Info: pics/5.png  used on input line 188.
 (pdftex.def)             Requested size: 142.49136pt x 153.45224pt.
- [9 <./4.png>] [10 <./5.png>] [11] [12] [13]
-(dipl.aux)
+ [9 <./pics/4.png>] [10 <./pics/5.png>]
+[11] [12] [13] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1032,8 +1032,8 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15002 strings out of 480799
- 256107 string characters out of 2896251
+ 15003 strings out of 480799
+ 256212 string characters out of 2896251
  954139 words of memory out of 3000000
  30747 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
