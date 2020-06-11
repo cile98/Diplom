@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  11 JUN 2020 23:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  12 JUN 2020 00:23
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1053,22 +1053,19 @@ Overfull \hbox (28.0716pt too wide) in paragraph at lines 410--411
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 440.
-
 <pics/7.png, id=92, 1486.55376pt x 364.36125pt>
 File: pics/7.png Graphic file (type png)
 <use pics/7.png>
-Package pdftex.def Info: pics/7.png  used on input line 465.
+Package pdftex.def Info: pics/7.png  used on input line 427.
 (pdftex.def)             Requested size: 520.30162pt x 127.52834pt.
 
-Overfull \hbox (34.044pt too wide) in paragraph at lines 465--466
+Overfull \hbox (34.044pt too wide) in paragraph at lines 427--428
  [] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 455.
 
 [20 <./pics/6.png> <./pics/7.png>] [21] [22] (dipl.aux)
 
@@ -1081,7 +1078,7 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 Here is how much of TeX's memory you used:
  15015 strings out of 480799
  256360 string characters out of 2896251
- 961139 words of memory out of 3000000
+ 962139 words of memory out of 3000000
  30757 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1105,7 +1102,7 @@ pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Use
 r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on dipl.pdf (22 pages, 885597 bytes).
+Output written on dipl.pdf (22 pages, 886388 bytes).
 PDF statistics:
  473 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
