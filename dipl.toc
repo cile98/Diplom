@@ -30,3 +30,5 @@
 \contentsline {subsection}{\numberline {2.1}Интерполяция полиномом первого порядка.}{14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Интерполяция полиномом второго порядка.}{20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Анализ результатов и вывод}{24}%

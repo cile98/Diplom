@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  12 JUN 2020 00:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  12 JUN 2020 22:15
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1063,11 +1063,27 @@ Overfull \hbox (34.044pt too wide) in paragraph at lines 427--428
  [] 
  []
 
+[20 <./pics/6.png> <./pics/7.png>] [21]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 455.
+               Default added (so using `tbp') on input line 456.
 
-[20 <./pics/6.png> <./pics/7.png>] [21] [22] (dipl.aux)
+
+Overfull \vbox (10.84105pt too high) has occurred while \output is active []
+
+
+[22]
+<pics/8.png, id=106, 863.6265pt x 222.23026pt>
+File: pics/8.png Graphic file (type png)
+<use pics/8.png>
+Package pdftex.def Info: pics/8.png  used on input line 523.
+(pdftex.def)             Requested size: 518.1799pt x 133.33917pt.
+
+Overfull \hbox (31.92229pt too wide) in paragraph at lines 523--524
+ [] 
+ []
+
+[23 <./pics/8.png>] [24] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1076,13 +1092,13 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15015 strings out of 480799
- 256360 string characters out of 2896251
- 962139 words of memory out of 3000000
- 30757 multiletter control sequences out of 15000+200000
+ 15021 strings out of 480799
+ 256434 string characters out of 2896251
+ 960139 words of memory out of 3000000
+ 30762 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,13n,40p,3694b,1697s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,40p,3694b,1697s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
 m0700.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
 600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
@@ -1097,14 +1113,17 @@ ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/User
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmmi12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/User/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Use
-r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on dipl.pdf (22 pages, 886388 bytes).
+pe1/public/amsfonts/cm/cmmi7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/User/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/symbols/msam10.pfb>
+Output written on dipl.pdf (24 pages, 1002278 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
+ 492 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
