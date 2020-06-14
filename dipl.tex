@@ -33,7 +33,7 @@
 \usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
 \usepackage{csquotes}
 %\addbibresource{bibleograf.bib}
-
+\usepackage{float}
 
 \linespread{1.3}
 %\pagestyle{plain}
@@ -278,8 +278,12 @@ P_2 (x,y)=&ax^2+bxy+cy^2+dx+ey+g,\\
 \begin{equation}
 u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{equation}
+\begin{figure}[h!]
+\center{\includegraphics[scale=0.6]{pics/11.png}}
+\caption{Вид функции (18) в начальный момент времени.}
+\end{figure}
 В таблицах 1, 2 и 3 приведены результаты расчетов для разных сеток в момент времени $T$=1 и $T$=3 при шаге $\tau=0.01$ и $T$=3 при шаге $\tau=0.001$ соответственно.
-\begin{table}[!h!]
+\begin{table}[H]
 \begin{tabular}{|r|r|r|r|r|r|r|}
 \hline
 \multicolumn{1}{|c|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -304,8 +308,8 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{tabular}
 \caption{Результаты расчетов с начальным импульсом вида (18) в момент времени Т=1 при $\tau$=0.01}
 \end{table}
-\newpage
-\begin{table}[!h!]
+
+\begin{table}[H]
 \begin{tabular}{|r|r|r|r|r|r|r|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -329,8 +333,8 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{tabular}
 \caption{Результаты расчетов с начальным импульсом вида (18) в момент времени Т=3 при $\tau$=0.01}
 \end{table}
-\newpage
-\begin{table}[!h!]
+
+\begin{table}[H]
 \begin{tabular}{|r|r|r|r|r|r|r|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -356,7 +360,7 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{table}
 
 В полученных результатах можно заметить, что порядок сходимости сильно колеблется, одна из предполагаемых причин данного результата может быть особенность треугольной сетки. В следующих таблицах приведены результаты расчетов в момент времени $T$=1 при шаге $\tau=0.01$, но проводилось усреднение результатов - в первом случае по трем близким сеткам, во втором - по пяти.
-\begin{table}[]
+\begin{table}[H]
 \begin{tabular}{|l|l|l|l|l|l|l|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -381,7 +385,7 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \caption{Результаты расчетов с начальным импульсом вида (18) с усреднением по трем сеткам в момент времени Т=1 при $\tau$=0.01}
 \end{table}
 \newpage
-\begin{table}[]
+\begin{table}[H]
 \begin{tabular}{|l|l|l|l|l|l|l|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -405,12 +409,14 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{tabular}
 \caption{Результаты расчетов с начальным импульсом вида (18) с усреднением по пяти сеткам в момент времени Т=1 при $\tau$=0.01}
 \end{table}
-Заметного результата усреднение не дало - порядок сходимости и дальше колеблется. На рисунке 5 можно увидеть вид численного решения на разных сетках.
+\newpage
+Заметного результата усреднение не дало - порядок сходимости и дальше колеблется. На рисунке 6 можно увидеть вид численного решения на разных сетках.
 \begin{figure}[!h!]
-\center{\includegraphics[scale=0.35]{pics/6.png}}
+\center{\includegraphics[scale=0.33]{pics/6.png}}
 \caption{Результаты расчета на сетках с разным числом расчетных узлов. Слева - 6347 узлов, справа - 833. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
 \end{figure}
 \newpage
+
 \subsection{Интерполяция полиномом второго порядка.}
 Далее проведем расчеты с использованием производных для повышения порядка полинома с начальным импульсом вида:
 \begin{equation}
@@ -422,13 +428,13 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{aligned}
 \right .
 \end{equation}
-На рисунке 6 представлены результаты численных расчетов в сравнении с проекцией аналитического решения на расчетную сетку.
+На рисунке 7 представлены результаты численных расчетов в сравнении с проекцией аналитического решения на расчетную сетку.
 \begin{figure}[!h!]
-\center{\includegraphics[scale=0.35]{pics/7.png}}
-\caption{Результаты расчета на сетках с разным числом расчетных узлов. Слева - 833 узлов, справа - 6347. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
+\center{\includegraphics[scale=0.33]{pics/7.png}}
+\caption{Результаты расчета с полиномом второго порядка на сетках с разным числом расчетных узлов. Слева - 833 узлов, справа - 6347. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
 \end{figure}
  В таблице 7 представлены усредненные расчеты по трем сеткам с близким количеством узлов.
-\begin{table}[h]
+\begin{table}[H]
 \begin{tabular}{|r|r|r|r|r|r|r|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -453,7 +459,7 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \caption{Результаты расчетов c полиномом второго порядка с начальным импульсом вида (19) в момент времени Т=1 при $\tau$=0.01}
 \end{table}
 \newpage
-\begin{table}[]
+\begin{table}[H]
 \begin{tabular}{|l|l|l|l|l|l|l|}
 \hline
 \multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
@@ -482,23 +488,27 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \left\lbrace
 \begin{aligned}
 &u(x,y,0) = \left\lbrace \begin{aligned}
-&e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))}, 0.4\leqslant x \leqslant 0.6,\\
+&e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))}, x,\:y \in [0.4,\:0.6],\\
 &0, else
 \end{aligned}
 \right . \\
 &u_x(x,y,0) = \left\lbrace \begin{aligned}
-&-\frac{( 2 \log(2))(x - 0.5)}{0.0009}e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))}, 0.4\leqslant x \leqslant 0.6,\\
+&-\frac{( 2 \log(2))(x - 0.5)}{0.0009}e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))}, x,\:y \in [0.4,\:0.6],\\
 &0, else
 \end{aligned}
 \right . \\
 &u_y(x,y,0) =  \left\lbrace \begin{aligned}
-&-\frac{( 2 \log(2))(y - 0.5)}{0.0009}e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))}, 0.4\leqslant x \leqslant 0.6,\\
+&-\frac{( 2 \log(2))(y - 0.5)}{0.0009}e^{(- \frac{\log(2)}{0.0009}((x - 0.5)^2 +(y - 0.5)^2))},\:x,\:y \in [0.4,\:0.6],\\
 &0, else
 \end{aligned}
 \right . \\
 \end{aligned}
 \right .
 \end{equation}
+\begin{figure}[H]
+\center{\includegraphics[scale=0.7]{pics/12.png}}
+\caption{Вид функции (20) в начальный момент времени.}
+\end{figure}
 \begin{table}[!h!]
 \begin{tabular}{|l|l|l|l|l|l|l|}
 \hline
@@ -519,11 +529,117 @@ u(x,y,0) = sin^4(\pi x)sin^4(\pi y).
 \end{tabular}
 \caption{Результаты расчетов c полиномом второго порядка с начальным импульсом вида (20) в момент времени Т=1 при $\tau$=0.01}
 \end{table}
+\newpage
 \begin{figure}[!h!]
-\center{\includegraphics[scale=0.6]{pics/8.png}}
+\center{\includegraphics[scale=0.55]{pics/8.png}}
 \caption{Результаты расчета на сетках с разным числом расчетных узлов с начальным импульсом вида (20). Слева - 6347 узлов, справа - 19665. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
 \end{figure}
+Далее проведем расчеты с начальным импульсом имеющим разрывную производную. Первый импульса задается следующей формулой:
+\begin{equation}
+\left\lbrace
+\begin{aligned}
+&u(x,y,0) = \left\lbrace \begin{aligned}
+&(1 - \vert 10x - 5 \vert)(1- \vert 10y - 5\vert), x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+&u_x(x,y,0) = \left\lbrace \begin{aligned}
+&-10 sign(10x-5)(1- \vert 10y - 5\vert), x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+&u_y(x,y,0) =  \left\lbrace \begin{aligned}
+&-10 sign(10y-5)(1- \vert 10x - 5\vert), x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+\end{aligned}
+\right .
+\end{equation}
+\begin{figure}[!h!]
+\center{\includegraphics[scale=0.7]{pics/9.png}}
+\caption{Вид функции (21) в начальный момент времени.}
+\end{figure}
+В таблице 9 представлены результаты расчетов.
+\begin{table}[!h!]
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
+1620  & 0,003061 & \multicolumn{1}{r|}{-} & 0,00038899 & -        & 0,337755 & \multicolumn{1}{r|}{-} \\ \hline
+2012  & 0,002208 & 1,507353               & 0,000260   & 1,863533 & 0,316565 & 0,298981               \\ \hline
+2691  & 0,001478 & 1,380171               & 0,000168   & 1,500692 & 0,276830 & 0,461259               \\ \hline
+3164  & 0,001188 & 1,352051               & 0,000134   & 1,409867 & 0,254661 & 0,515495               \\ \hline
+3959  & 0,000981 & 0,852915               & 0,000093   & 1,603377 & 0,221722 & 0,617904               \\ \hline
+4553  & 0,000881 & 0,766639               & 0,000080   & 1,117249 & 0,208590 & 0,436744               \\ \hline
+5266  & 0,000825 & 0,455388               & 0,000067   & 1,174162 & 0,189846 & 0,647197               \\ \hline
+6347  & 0,000747 & 0,531459               & 5,74E-05   & 0,849228 & 0,173855 & 0,471265               \\ \hline
+7905  & 0,000578 & 1,168760               & 4,10E-05   & 1,533108 & 0,158116 & 0,432303               \\ \hline
+10478 & 0,000393 & 1,367132               & 2,55E-05   & 1,688809 & 0,124131 & 0,858773               \\ \hline
+15686 & 0,000277 & 0,865455               & 1,57E-05   & 1,194628 & 0,110635 & 0,285264               \\ \hline
+19665 & 2,33E-04 & 0,770631               & 1,18E-05   & 1,283464 & 0,093044 & 0,765994               \\ \hline
+22380 & 2,05E-04 & 0,971917               & 1,01E-05   & 1,202706 & 0,092711 & 0,027715               \\ \hline
+26174 & 1,81E-04 & 0,824269               & 8,18E-06   & 1,332931 & 0,084930 & 0,559765               \\ \hline
+\end{tabular}
+\caption{Результаты расчетов c полиномом второго порядка с начальным импульсом вида (21) в момент времени Т=1 при $\tau$=0.01}
+\end{table}
+\begin{figure}[H]
+\center{\includegraphics[scale=0.33]{pics/13.png}}
+\caption{Результаты расчета на сетках с разным числом расчетных узлов с начальным импульсом вида (21). Слева - 5266 узлов, справа - 22380. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
+\end{figure}
+\newpage
+Далее рассмотрим начальный импульс следующего вида:
 
-\section{Анализ результатов и вывод}
+\begin{equation}
+\left\lbrace
+\begin{aligned}
+&u(x,y,0) = \left\lbrace \begin{aligned}
+&\sqrt{(1-100(x-0.5)^2)(1-100(y-0.5)^2)}, x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+&u_x(x,y,0) = \left\lbrace \begin{aligned}
+& \frac{-100(-0.5 + x)}{ \sqrt{-24 + 100x - 100x^2}}\sqrt{1-100(y-0.5)^2}, x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+&u_y(x,y,0) =  \left\lbrace \begin{aligned}
+&\frac{-100(-0.5 + y)}{ \sqrt{-24 + 100y - 100y^2}}\sqrt{1-100(x-0.5)^2}, x,\:y \in [0.4,\:0.6],\\
+&0, else
+\end{aligned}
+\right . \\
+\end{aligned}
+\right .
+\end{equation}
+Его график имеет имеет следующий вид.
+\begin{figure}[H]
+\center{\includegraphics[scale=0.7]{pics/10.png}}
+\caption{Вид функции (22) в начальный момент времени.}
+\end{figure}
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|l|}{N} & \multicolumn{1}{l|}{$L_1$}        & \multicolumn{1}{l|}{$p_1$} & \multicolumn{1}{l|}{$L_2$}     & \multicolumn{1}{l|}{$p_2$} & \multicolumn{1}{l|}{$L_\infty$} & \multicolumn{1}{l|}{$p_\infty$} \\ \hline
+
+2012  & 0,006143 & \multicolumn{1}{r|}{-} & 0,000550 & -        & 0,006143 & \multicolumn{1}{r|}{-} \\ \hline
+2691  & 0,005035 & 0,683681               & 0,000423 & 0,900226 & 0,005035 & 0,407030               \\ \hline
+3164  & 0,004513 & 0,676276               & 0,000353 & 1,130162 & 0,004513 & 0,919529               \\ \hline
+3959  & 0,003701 & 0,885441               & 0,000272 & 1,154586 & 0,003701 & -0,116358              \\ \hline
+4553  & 0,003481 & 0,437916               & 0,000247 & 0,690894 & 0,003481 & -0,241927              \\ \hline
+5266  & 0,003039 & 0,931985               & 0,000201 & 1,436787 & 0,003039 & 0,771713               \\ \hline
+6347  & 0,002739 & 0,556962               & 1,73E-04 & 0,787130 & 0,002739 & -0,237605              \\ \hline
+7905  & 0,002205 & 0,988705               & 1,33E-04 & 1,189495 & 0,002205 & -0,017744              \\ \hline
+10478 & 0,001703 & 0,915976               & 9,71E-05 & 1,125756 & 0,001703 & 0,914197               \\ \hline
+15686 & 0,001379 & 0,523247               & 6,95E-05 & 0,828312 & 0,001379 & 0,081578               \\ \hline
+19665 & 1,13E-03 & 0,880674               & 5,41E-05 & 1,113100 & 1,13E-03 & 0,345841               \\ \hline
+22380 & 1,00E-03 & 0,920344               & 4,52E-05 & 1,389057 & 1,00E-03 & 0,875240               \\ \hline
+26174 & 9,18E-04 & 0,564304               & 3,98E-05 & 0,806586 & 9,18E-04 & -0,077528              \\ \hline
+\end{tabular}
+\caption{Результаты расчетов c полиномом второго порядка с начальным импульсом вида (22) в момент времени Т=1 при $\tau$=0.01}
+\end{table}
+\begin{figure}[H]
+\center{\includegraphics[scale=0.6]{pics/14.png}}
+\caption{Результаты расчета на сетках с разным числом расчетных узлов с начальным импульсом вида (21). Слева - 10478 узлов, справа - `9665. Синим изображено численное решение, оранжевым аналитическое в момент времени Т=1 при шаге $\tau$=0.01.}
+\end{figure}
+\section{Анализ результатов и вывод.}
 % добавить графики функции и производных
 \end{document}

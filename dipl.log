@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  12 JUN 2020 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  15 JUN 2020 00:30
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -854,11 +854,20 @@ Package csquotes Info: ... configuration file loaded successfully.
 fg"
 File: csquotes.cfg 
 ))
+("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count404
+\float@exts=\toks34
+\float@box=\box52
+\@float@everytoks=\toks35
+\@floatcapt=\box53
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
- (dipl.aux)
+
+(dipl.aux)
 \openout1 = `dipl.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -916,17 +925,17 @@ LaTeX Font Info:    ... okay on input line 48.
 ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
 f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count404
+\scratchcounter=\count405
 \scratchdimen=\dimen182
-\scratchbox=\box52
-\nofMPsegments=\count405
-\nofMParguments=\count406
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count407
+\scratchbox=\box54
+\nofMPsegments=\count406
+\nofMParguments=\count407
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count408
 \MPscratchDim=\dimen183
-\MPnumerator=\count408
-\makeMPintoPDFobject=\count409
-\everyMPtoPDFconversion=\toks35
+\MPnumerator=\count409
+\makeMPintoPDFobject=\count410
+\everyMPtoPDFconversion=\toks37
 )
 ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
 df-base.sty"
@@ -1029,61 +1038,82 @@ Overfull \hbox (0.1521pt too wide) in paragraph at lines 258--259
 ряд-ка схо-ди-мо-сти по трем
  []
 
-[13] [14] [15] [16]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 359.
-
-[17] [18]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 384.
-
-<pics/6.png, id=87, 1469.49pt x 381.425pt>
+[13] [14]
+<pics/11.png, id=75, 512.51476pt x 233.673pt>
+File: pics/11.png Graphic file (type png)
+<use pics/11.png>
+Package pdftex.def Info: pics/11.png  used on input line 282.
+(pdftex.def)             Requested size: 307.51122pt x 140.20488pt.
+ [15 <./pics/11.png>] [16] [17] [18] [19] [20]
+<pics/6.png, id=96, 1469.49pt x 381.425pt>
 File: pics/6.png Graphic file (type png)
 <use pics/6.png>
-Package pdftex.def Info: pics/6.png  used on input line 410.
-(pdftex.def)             Requested size: 514.32921pt x 133.50075pt.
+Package pdftex.def Info: pics/6.png  used on input line 415.
+(pdftex.def)             Requested size: 484.9332pt x 125.87064pt.
+ [21 <./pics/6.png>]
+<pics/7.png, id=101, 1486.55376pt x 364.36125pt>
+File: pics/7.png Graphic file (type png)
+<use pics/7.png>
+Package pdftex.def Info: pics/7.png  used on input line 433.
+(pdftex.def)             Requested size: 490.56425pt x 120.23958pt.
 
-Overfull \hbox (28.0716pt too wide) in paragraph at lines 410--411
+Overfull \hbox (4.30664pt too wide) in paragraph at lines 433--434
+ [] 
+ []
+
+[22 <./pics/7.png>] [23] [24]
+<pics/12.png, id=112, 522.15076pt x 237.2865pt>
+File: pics/12.png Graphic file (type png)
+<use pics/12.png>
+Package pdftex.def Info: pics/12.png  used on input line 509.
+(pdftex.def)             Requested size: 365.50304pt x 166.0994pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./pics/12.png>]
+<pics/8.png, id=119, 863.6265pt x 222.23026pt>
+File: pics/8.png Graphic file (type png)
+<use pics/8.png>
+Package pdftex.def Info: pics/8.png  used on input line 534.
+(pdftex.def)             Requested size: 474.99605pt x 122.227pt.
+ [26 <./pics/8.png>]
+<pics/9.png, id=124, 517.33275pt x 236.082pt>
+File: pics/9.png Graphic file (type png)
+<use pics/9.png>
+Package pdftex.def Info: pics/9.png  used on input line 560.
+(pdftex.def)             Requested size: 362.13045pt x 165.25626pt.
+<pics/13.png, id=125, 1497.595pt x 383.4325pt>
+File: pics/13.png Graphic file (type png)
+<use pics/13.png>
+Package pdftex.def Info: pics/13.png  used on input line 586.
+(pdftex.def)             Requested size: 494.20789pt x 126.53311pt.
+
+Overfull \hbox (7.95027pt too wide) in paragraph at lines 586--587
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19]
-<pics/7.png, id=92, 1486.55376pt x 364.36125pt>
-File: pics/7.png Graphic file (type png)
-<use pics/7.png>
-Package pdftex.def Info: pics/7.png  used on input line 427.
-(pdftex.def)             Requested size: 520.30162pt x 127.52834pt.
+[27 <./pics/9.png> <./pics/13.png>]
+<pics/10.png, id=131, 525.76425pt x 242.1045pt>
+File: pics/10.png Graphic file (type png)
+<use pics/10.png>
+Package pdftex.def Info: pics/10.png  used on input line 615.
+(pdftex.def)             Requested size: 368.03246pt x 169.47198pt.
+ [28]
+<pics/14.png, id=135, 870.25125pt x 233.07076pt>
+File: pics/14.png Graphic file (type png)
+<use pics/14.png>
+Package pdftex.def Info: pics/14.png  used on input line 640.
+(pdftex.def)             Requested size: 522.15479pt x 139.84352pt.
 
-Overfull \hbox (34.044pt too wide) in paragraph at lines 427--428
+Overfull \hbox (35.89717pt too wide) in paragraph at lines 640--641
  [] 
  []
 
-[20 <./pics/6.png> <./pics/7.png>] [21]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 456.
-
-
-Overfull \vbox (10.84105pt too high) has occurred while \output is active []
-
-
-[22]
-<pics/8.png, id=106, 863.6265pt x 222.23026pt>
-File: pics/8.png Graphic file (type png)
-<use pics/8.png>
-Package pdftex.def Info: pics/8.png  used on input line 523.
-(pdftex.def)             Requested size: 518.1799pt x 133.33917pt.
-
-Overfull \hbox (31.92229pt too wide) in paragraph at lines 523--524
- [] 
- []
-
-[23 <./pics/8.png>] [24] (dipl.aux)
+[29 <./pics/10.png>] [30 <./pics/14.png>] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1092,10 +1122,10 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15021 strings out of 480799
- 256434 string characters out of 2896251
- 960139 words of memory out of 3000000
- 30762 multiletter control sequences out of 15000+200000
+ 15115 strings out of 480799
+ 257719 string characters out of 2896251
+ 961530 words of memory out of 3000000
+ 30846 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,40p,3694b,1697s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1119,11 +1149,10 @@ ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/User/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/symbols/msam10.pfb>
-Output written on dipl.pdf (24 pages, 1002278 bytes).
+msy7.pfb>
+Output written on dipl.pdf (30 pages, 1820122 bytes).
 PDF statistics:
- 492 PDF objects out of 1000 (max. 8388607)
+ 522 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
