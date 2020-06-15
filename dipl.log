@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  15 JUN 2020 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  15 JUN 2020 14:59
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1048,72 +1048,78 @@ Package pdftex.def Info: pics/11.png  used on input line 282.
 <pics/6.png, id=96, 1469.49pt x 381.425pt>
 File: pics/6.png Graphic file (type png)
 <use pics/6.png>
-Package pdftex.def Info: pics/6.png  used on input line 415.
+Package pdftex.def Info: pics/6.png  used on input line 420.
 (pdftex.def)             Requested size: 484.9332pt x 125.87064pt.
- [21 <./pics/6.png>]
-<pics/7.png, id=101, 1486.55376pt x 364.36125pt>
+<pics/7.png, id=97, 1486.55376pt x 364.36125pt>
 File: pics/7.png Graphic file (type png)
 <use pics/7.png>
-Package pdftex.def Info: pics/7.png  used on input line 433.
+Package pdftex.def Info: pics/7.png  used on input line 436.
 (pdftex.def)             Requested size: 490.56425pt x 120.23958pt.
 
-Overfull \hbox (4.30664pt too wide) in paragraph at lines 433--434
+Overfull \hbox (4.30664pt too wide) in paragraph at lines 436--437
  [] 
  []
 
-[22 <./pics/7.png>] [23] [24]
-<pics/12.png, id=112, 522.15076pt x 237.2865pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21 <./pics/6.png>]
+Overfull \vbox (6.56879pt too high) has occurred while \output is active []
+
+
+[22 <./pics/7.png>] [23]
+<pics/12.png, id=109, 522.15076pt x 237.2865pt>
 File: pics/12.png Graphic file (type png)
 <use pics/12.png>
-Package pdftex.def Info: pics/12.png  used on input line 509.
+Package pdftex.def Info: pics/12.png  used on input line 514.
 (pdftex.def)             Requested size: 365.50304pt x 166.0994pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[25 <./pics/12.png>]
-<pics/8.png, id=119, 863.6265pt x 222.23026pt>
+[24 <./pics/12.png>]
+<pics/8.png, id=115, 863.6265pt x 222.23026pt>
 File: pics/8.png Graphic file (type png)
 <use pics/8.png>
-Package pdftex.def Info: pics/8.png  used on input line 534.
+Package pdftex.def Info: pics/8.png  used on input line 540.
 (pdftex.def)             Requested size: 474.99605pt x 122.227pt.
- [26 <./pics/8.png>]
-<pics/9.png, id=124, 517.33275pt x 236.082pt>
+ [25 <./pics/8.png>]
+<pics/9.png, id=121, 517.33275pt x 236.082pt>
 File: pics/9.png Graphic file (type png)
 <use pics/9.png>
-Package pdftex.def Info: pics/9.png  used on input line 560.
+Package pdftex.def Info: pics/9.png  used on input line 566.
 (pdftex.def)             Requested size: 362.13045pt x 165.25626pt.
-<pics/13.png, id=125, 1497.595pt x 383.4325pt>
+<pics/13.png, id=122, 1497.595pt x 383.4325pt>
 File: pics/13.png Graphic file (type png)
 <use pics/13.png>
-Package pdftex.def Info: pics/13.png  used on input line 586.
+Package pdftex.def Info: pics/13.png  used on input line 593.
 (pdftex.def)             Requested size: 494.20789pt x 126.53311pt.
 
-Overfull \hbox (7.95027pt too wide) in paragraph at lines 586--587
+Overfull \hbox (7.95027pt too wide) in paragraph at lines 593--594
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27 <./pics/9.png> <./pics/13.png>]
-<pics/10.png, id=131, 525.76425pt x 242.1045pt>
+[26 <./pics/9.png> <./pics/13.png>]
+<pics/10.png, id=128, 525.76425pt x 242.1045pt>
 File: pics/10.png Graphic file (type png)
 <use pics/10.png>
-Package pdftex.def Info: pics/10.png  used on input line 615.
+Package pdftex.def Info: pics/10.png  used on input line 622.
 (pdftex.def)             Requested size: 368.03246pt x 169.47198pt.
- [28]
-<pics/14.png, id=135, 870.25125pt x 233.07076pt>
+ [27]
+<pics/14.png, id=132, 870.25125pt x 233.07076pt>
 File: pics/14.png Graphic file (type png)
 <use pics/14.png>
-Package pdftex.def Info: pics/14.png  used on input line 640.
+Package pdftex.def Info: pics/14.png  used on input line 648.
 (pdftex.def)             Requested size: 522.15479pt x 139.84352pt.
 
-Overfull \hbox (35.89717pt too wide) in paragraph at lines 640--641
+Overfull \hbox (35.89717pt too wide) in paragraph at lines 648--649
  [] 
  []
 
-[29 <./pics/10.png>] [30 <./pics/14.png>] (dipl.aux)
+[28 <./pics/10.png>] [29 <./pics/14.png>] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1128,7 +1134,7 @@ Here is how much of TeX's memory you used:
  30846 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,18n,40p,3694b,1697s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,40p,3754b,1697s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
 m0700.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
 600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
@@ -1150,9 +1156,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on dipl.pdf (30 pages, 1820122 bytes).
+Output written on dipl.pdf (29 pages, 1819741 bytes).
 PDF statistics:
- 522 PDF objects out of 1000 (max. 8388607)
+ 519 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
