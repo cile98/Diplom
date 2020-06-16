@@ -31,4 +31,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Интерполяция полиномом второго порядка.}{21}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Анализ результатов и вывод.}{30}%
+\contentsline {section}{\numberline {3}Анализ результатов и вывод.}{31}%
