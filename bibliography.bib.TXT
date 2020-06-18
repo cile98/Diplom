@@ -1,0 +1,8 @@
+@article{Samar,
+  title={Теории разностных схем},
+  author={Самарский, АА},
+  booktitle={Доклады Академии наук СССР},
+  volume={165},
+  number={5},
+  year={1965}
+}
