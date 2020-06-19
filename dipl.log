@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  18 JUN 2020 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  19 JUN 2020 13:20
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1207,7 +1207,7 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 Here is how much of TeX's memory you used:
  15300 strings out of 480799
  261297 string characters out of 2896251
- 961570 words of memory out of 3000000
+ 961576 words of memory out of 3000000
  31030 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1233,7 +1233,7 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on dipl.pdf (32 pages, 2138668 bytes).
+Output written on dipl.pdf (32 pages, 2138687 bytes).
 PDF statistics:
  579 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
