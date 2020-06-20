@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  20 JUN 2020 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  20 JUN 2020 21:32
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -998,287 +998,267 @@ LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
 
 [1
 
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
 (dipl.toc)
 \tf@toc=\write4
 \openout4 = `dipl.toc'.
 
- [3]
+ [2]
 
-LaTeX Warning: Citation '1' on page 4 undefined on input line 118.
-
-
-LaTeX Warning: Citation '2' on page 4 undefined on input line 119.
+LaTeX Warning: Citation '1' on page 3 undefined on input line 117.
 
 
-LaTeX Warning: Citation '3' on page 4 undefined on input line 120.
+LaTeX Warning: Citation '2' on page 3 undefined on input line 118.
 
 
-Overfull \hbox (28.24486pt too wide) in paragraph at lines 118--121
+LaTeX Warning: Citation '3' on page 3 undefined on input line 119.
+
+
+Overfull \hbox (28.24486pt too wide) in paragraph at lines 117--120
 \T2A/cmr/m/n/14.4 аку-сти-ке и др. [[]]. Боль-шое рас-про-стра-не-ние по-лу-чил
  сеточно-характеристический
  []
 
 
-LaTeX Warning: Citation '4' on page 4 undefined on input line 122.
+LaTeX Warning: Citation '4' on page 3 undefined on input line 121.
 
 
-LaTeX Warning: Citation '5' on page 4 undefined on input line 123.
+LaTeX Warning: Citation '5' on page 3 undefined on input line 122.
 
 
-LaTeX Warning: Citation '6' on page 4 undefined on input line 125.
+LaTeX Warning: Citation '6' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Citation '7' on page 3 undefined on input line 130.
+
+[3]
+
+LaTeX Warning: Citation '8' on page 4 undefined on input line 134.
+
+
+LaTeX Warning: Citation '9' on page 4 undefined on input line 135.
+
+
+LaTeX Warning: Citation '10' on page 4 undefined on input line 135.
+
+
+LaTeX Warning: Citation '11' on page 4 undefined on input line 138.
+
+
+LaTeX Warning: Citation '12' on page 4 undefined on input line 140.
+
+
+LaTeX Warning: Citation '13' on page 4 undefined on input line 141.
+
+
+LaTeX Warning: Citation '14' on page 4 undefined on input line 141.
+
+
+LaTeX Warning: Citation '15' on page 4 undefined on input line 142.
 
 [4]
 
-LaTeX Warning: Citation '7' on page 5 undefined on input line 131.
+LaTeX Warning: Citation '16' on page 5 undefined on input line 148.
 
 
-LaTeX Warning: Citation '8' on page 5 undefined on input line 135.
+LaTeX Warning: Citation '17' on page 5 undefined on input line 148.
 
 
-LaTeX Warning: Citation '9' on page 5 undefined on input line 136.
+LaTeX Warning: Citation '18' on page 5 undefined on input line 148.
 
 
-LaTeX Warning: Citation '10' on page 5 undefined on input line 136.
-
-
-LaTeX Warning: Citation '11' on page 5 undefined on input line 139.
-
-
-LaTeX Warning: Citation '12' on page 5 undefined on input line 141.
-
-
-LaTeX Warning: Citation '13' on page 5 undefined on input line 142.
-
-
-LaTeX Warning: Citation '14' on page 5 undefined on input line 142.
-
-
-LaTeX Warning: Citation '15' on page 5 undefined on input line 143.
+LaTeX Warning: Citation '19' on page 5 undefined on input line 148.
 
 [5]
-
-LaTeX Warning: Citation '16' on page 6 undefined on input line 149.
-
-<<<<<<< HEAD
-
-LaTeX Warning: Citation '17' on page 6 undefined on input line 149.
-
-=======
-
-LaTeX Warning: Citation '17' on page 6 undefined on input line 149.
-
->>>>>>> Amisto-master
-
-LaTeX Warning: Citation '18' on page 6 undefined on input line 149.
-
-
-LaTeX Warning: Citation '19' on page 6 undefined on input line 149.
-
-[6]
-Overfull \hbox (21.85445pt too wide) in paragraph at lines 170--171
+Overfull \hbox (21.85445pt too wide) in paragraph at lines 169--170
 \T2A/cmr/m/n/14.4 ре-ше-ния урав-не-ния. В дан-ной ра-бо-те мы ис-поль-зу-ем се
 точно-характеристический
  []
 
-[7]
+[6]
 <pics/1.png, id=42, 502.12593pt x 135.50626pt>
 File: pics/1.png Graphic file (type png)
 <use pics/1.png>
-Package pdftex.def Info: pics/1.png  used on input line 184.
+Package pdftex.def Info: pics/1.png  used on input line 183.
 (pdftex.def)             Requested size: 502.12471pt x 135.5059pt.
 
-Overfull \hbox (15.8671pt too wide) in paragraph at lines 184--185
+Overfull \hbox (15.8671pt too wide) in paragraph at lines 183--184
  [] 
  []
 
 
-LaTeX Warning: Citation '20' on page 8 undefined on input line 185.
+LaTeX Warning: Citation '20' on page 7 undefined on input line 184.
 
 
-LaTeX Warning: Citation '20' on page 8 undefined on input line 185.
+LaTeX Warning: Citation '20' on page 7 undefined on input line 184.
 
 <pics/2.png, id=43, 373.395pt x 248.93pt>
 File: pics/2.png Graphic file (type png)
 <use pics/2.png>
-Package pdftex.def Info: pics/2.png  used on input line 191.
+Package pdftex.def Info: pics/2.png  used on input line 190.
 (pdftex.def)             Requested size: 373.39409pt x 248.92938pt.
-[8 <./pics/1.png>] [9 <./pics/2.png>]
+[7 <./pics/1.png>] [8 <./pics/2.png>]
 <pics/4.png, id=52, 200.75pt x 200.75pt>
 File: pics/4.png Graphic file (type png)
 <use pics/4.png>
-Package pdftex.def Info: pics/4.png  used on input line 214.
+Package pdftex.def Info: pics/4.png  used on input line 213.
 (pdftex.def)             Requested size: 120.45091pt x 120.45091pt.
 <pics/5.png, id=53, 203.5605pt x 219.219pt>
 File: pics/5.png Graphic file (type png)
 <use pics/5.png>
-Package pdftex.def Info: pics/5.png  used on input line 220.
+Package pdftex.def Info: pics/5.png  used on input line 219.
 (pdftex.def)             Requested size: 142.49136pt x 153.45224pt.
- [10 <./pics/4.png>] [11 <./pics/5.png>]
-[12] [13]
-Overfull \hbox (0.1521pt too wide) in paragraph at lines 290--291
+ [9 <./pics/4.png>] [10 <./pics/5.png>]
+[11] [12]
+Overfull \hbox (0.1521pt too wide) in paragraph at lines 289--290
 []\T2A/cmr/m/up/14.4 В ра-бо-те про-во-ди-лось чис-лен-ное ис-сле-до-ва-ние по-
 ряд-ка схо-ди-мо-сти по трем
  []
 
-[14] [15]
+[13] [14]
 <pics/11.png, id=78, 512.51476pt x 233.673pt>
 File: pics/11.png Graphic file (type png)
 <use pics/11.png>
-Package pdftex.def Info: pics/11.png  used on input line 314.
+Package pdftex.def Info: pics/11.png  used on input line 313.
 (pdftex.def)             Requested size: 307.51122pt x 140.20488pt.
- [16 <./pics/11.png>] [17] [18] [19] [20] [21]
+ [15 <./pics/11.png>] [16] [17] [18] [19] [20]
 <pics/6.png, id=99, 1469.49pt x 381.425pt>
 File: pics/6.png Graphic file (type png)
 <use pics/6.png>
-Package pdftex.def Info: pics/6.png  used on input line 452.
+Package pdftex.def Info: pics/6.png  used on input line 451.
 (pdftex.def)             Requested size: 484.9332pt x 125.87064pt.
 <pics/7.png, id=100, 1486.55376pt x 364.36125pt>
 File: pics/7.png Graphic file (type png)
 <use pics/7.png>
-Package pdftex.def Info: pics/7.png  used on input line 468.
+Package pdftex.def Info: pics/7.png  used on input line 467.
 (pdftex.def)             Requested size: 490.56425pt x 120.23958pt.
 
-Overfull \hbox (4.30664pt too wide) in paragraph at lines 468--469
+Overfull \hbox (4.30664pt too wide) in paragraph at lines 467--468
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22 <./pics/6.png>]
+[21 <./pics/6.png>]
 Overfull \vbox (6.56879pt too high) has occurred while \output is active []
 
 
-[23 <./pics/7.png>] [24]
+[22 <./pics/7.png>] [23]
 <pics/12.png, id=112, 522.15076pt x 237.2865pt>
 File: pics/12.png Graphic file (type png)
 <use pics/12.png>
-Package pdftex.def Info: pics/12.png  used on input line 546.
+Package pdftex.def Info: pics/12.png  used on input line 545.
 (pdftex.def)             Requested size: 365.50304pt x 166.0994pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[25 <./pics/12.png>]
+[24 <./pics/12.png>]
 <pics/8.png, id=119, 863.6265pt x 222.23026pt>
 File: pics/8.png Graphic file (type png)
 <use pics/8.png>
-Package pdftex.def Info: pics/8.png  used on input line 572.
+Package pdftex.def Info: pics/8.png  used on input line 571.
 (pdftex.def)             Requested size: 474.99605pt x 122.227pt.
- [26 <./pics/8.png>]
+ [25 <./pics/8.png>]
 <pics/9.png, id=124, 517.33275pt x 236.082pt>
 File: pics/9.png Graphic file (type png)
 <use pics/9.png>
-Package pdftex.def Info: pics/9.png  used on input line 598.
+Package pdftex.def Info: pics/9.png  used on input line 597.
 (pdftex.def)             Requested size: 362.13045pt x 165.25626pt.
 <pics/13.png, id=125, 1497.595pt x 383.4325pt>
 File: pics/13.png Graphic file (type png)
 <use pics/13.png>
-Package pdftex.def Info: pics/13.png  used on input line 625.
+Package pdftex.def Info: pics/13.png  used on input line 624.
 (pdftex.def)             Requested size: 494.20789pt x 126.53311pt.
 
-Overfull \hbox (7.95027pt too wide) in paragraph at lines 625--626
+Overfull \hbox (7.95027pt too wide) in paragraph at lines 624--625
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27 <./pics/9.png> <./pics/13.png>]
+[26 <./pics/9.png> <./pics/13.png>]
 <pics/10.png, id=131, 525.76425pt x 242.1045pt>
 File: pics/10.png Graphic file (type png)
 <use pics/10.png>
-Package pdftex.def Info: pics/10.png  used on input line 654.
+Package pdftex.def Info: pics/10.png  used on input line 653.
 (pdftex.def)             Requested size: 368.03246pt x 169.47198pt.
- [28]
+ [27]
 <pics/14.png, id=135, 870.25125pt x 233.07076pt>
 File: pics/14.png Graphic file (type png)
 <use pics/14.png>
-Package pdftex.def Info: pics/14.png  used on input line 680.
+Package pdftex.def Info: pics/14.png  used on input line 679.
 (pdftex.def)             Requested size: 522.15479pt x 139.84352pt.
 
-Overfull \hbox (35.89717pt too wide) in paragraph at lines 680--681
+Overfull \hbox (35.89717pt too wide) in paragraph at lines 679--680
  [] 
  []
 
-[29 <./pics/10.png>]
+[28 <./pics/10.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 684.
+               Default added (so using `tbp') on input line 683.
 
 <pics/15.png, id=140, 1433.355pt x 375.4025pt>
 File: pics/15.png Graphic file (type png)
 <use pics/15.png>
-Package pdftex.def Info: pics/15.png  used on input line 709.
+Package pdftex.def Info: pics/15.png  used on input line 708.
 (pdftex.def)             Requested size: 516.00742pt x 135.14479pt.
 
-Overfull \hbox (29.7498pt too wide) in paragraph at lines 709--710
+Overfull \hbox (29.7498pt too wide) in paragraph at lines 708--709
  [] 
  []
 
-[30 <./pics/14.png> <./pics/15.png>] [31]
-Overfull \hbox (7.7977pt too wide) in paragraph at lines 715--754
+[29 <./pics/14.png> <./pics/15.png>] [30]
+Overfull \hbox (7.7977pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 5.  Beklemysheva, K.A., Danilov, A.A., Petrov, I.B., Salamat
 ova, V.Yu., Vassilevski,
  []
 
 
-Overfull \hbox (29.14227pt too wide) in paragraph at lines 715--754
+Overfull \hbox (29.14227pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 6.  Vasyukov A. V., Petrov I. B. Grid-characteristic method 
 on tetrahedral unstructured
  []
 
 
-Overfull \hbox (2.01683pt too wide) in paragraph at lines 715--754
+Overfull \hbox (2.01683pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 9.  Го-лу-бев В. И., Пет-ров И. Б., Хох-лов Н. И. Ком-пакт-н
 ые сеточно-характерис-
  []
 
 
-Overfull \hbox (3.83337pt too wide) in paragraph at lines 715--754
+Overfull \hbox (3.83337pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 characteristic schemes for linear advection //Russian Journa
 l of Numerical Analysis
  []
 
 
-Overfull \hbox (5.47224pt too wide) in paragraph at lines 715--754
+Overfull \hbox (5.47224pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 Elastic Wave Propagation in Geological Media: Intercompariso
 n of Three Numerical
  []
 
 
-Overfull \hbox (6.89505pt too wide) in paragraph at lines 715--754
+Overfull \hbox (6.89505pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 Methods. Computational Mathematics and Mathematical Physics 
 56 (6), 10861095
-<<<<<<< HEAD
  []
 
 
-Overfull \hbox (11.6604pt too wide) in paragraph at lines 715--754
+Overfull \hbox (11.6604pt too wide) in paragraph at lines 714--753
 \T2A/cmr/m/up/14.4 Vasyukov, A.: Numerical simulation of aberrated medical ultr
 asound signals. Russian
  []
 
-=======
- []
-
-
-Overfull \hbox (11.6604pt too wide) in paragraph at lines 715--754
-\T2A/cmr/m/up/14.4 Vasyukov, A.: Numerical simulation of aberrated medical ultr
-asound signals. Russian
- []
-
->>>>>>> Amisto-master
-[32] [33] [34] (dipl.aux)
+[31] [32] [33] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1292,11 +1272,7 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 Here is how much of TeX's memory you used:
  15338 strings out of 480799
  261902 string characters out of 2896251
-<<<<<<< HEAD
- 962361 words of memory out of 3000000
-=======
- 962409 words of memory out of 3000000
->>>>>>> Amisto-master
+ 962415 words of memory out of 3000000
  31062 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1322,9 +1298,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on dipl.pdf (34 pages, 2145466 bytes).
+Output written on dipl.pdf (34 pages, 2144896 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
+ 588 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
