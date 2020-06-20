@@ -1060,9 +1060,15 @@ LaTeX Warning: Citation '15' on page 5 undefined on input line 143.
 
 LaTeX Warning: Citation '16' on page 6 undefined on input line 149.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Citation '17' on page 6 undefined on input line 149.
 
+=======
+
+LaTeX Warning: Citation '17' on page 6 undefined on input line 149.
+
+>>>>>>> Amisto-master
 
 LaTeX Warning: Citation '18' on page 6 undefined on input line 149.
 
@@ -1245,6 +1251,7 @@ n of Three Numerical
 Overfull \hbox (6.89505pt too wide) in paragraph at lines 715--754
 \T2A/cmr/m/up/14.4 Methods. Computational Mathematics and Mathematical Physics 
 56 (6), 10861095
+<<<<<<< HEAD
  []
 
 
@@ -1253,6 +1260,16 @@ Overfull \hbox (11.6604pt too wide) in paragraph at lines 715--754
 asound signals. Russian
  []
 
+=======
+ []
+
+
+Overfull \hbox (11.6604pt too wide) in paragraph at lines 715--754
+\T2A/cmr/m/up/14.4 Vasyukov, A.: Numerical simulation of aberrated medical ultr
+asound signals. Russian
+ []
+
+>>>>>>> Amisto-master
 [32] [33] [34] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1275,7 +1292,11 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 Here is how much of TeX's memory you used:
  15338 strings out of 480799
  261902 string characters out of 2896251
+<<<<<<< HEAD
  962361 words of memory out of 3000000
+=======
+ 962409 words of memory out of 3000000
+>>>>>>> Amisto-master
  31062 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
