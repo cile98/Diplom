@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  21 JUN 2020 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  21 JUN 2020 21:24
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1109,13 +1109,13 @@ File: pics/5.png Graphic file (type png)
 Package pdftex.def Info: pics/5.png  used on input line 219.
 (pdftex.def)             Requested size: 142.49136pt x 153.45224pt.
  [9 <./pics/4.png>] [10 <./pics/5.png>]
-[11] [12]
+[11] [12] [13]
 Overfull \hbox (0.1521pt too wide) in paragraph at lines 289--290
 []\T2A/cmr/m/up/14.4 В ра-бо-те про-во-ди-лось чис-лен-ное ис-сле-до-ва-ние по-
 ряд-ка схо-ди-мо-сти по трем
  []
 
-[13] [14]
+[14]
 <pics/11.png, id=78, 512.51476pt x 233.673pt>
 File: pics/11.png Graphic file (type png)
 <use pics/11.png>
@@ -1189,71 +1189,82 @@ Package pdftex.def Info: pics/10.png  used on input line 653.
 <pics/14.png, id=135, 870.25125pt x 233.07076pt>
 File: pics/14.png Graphic file (type png)
 <use pics/14.png>
-Package pdftex.def Info: pics/14.png  used on input line 679.
-(pdftex.def)             Requested size: 522.15479pt x 139.84352pt.
+Package pdftex.def Info: pics/14.png  used on input line 680.
+(pdftex.def)             Requested size: 487.33739pt x 130.51872pt.
 
-Overfull \hbox (35.89717pt too wide) in paragraph at lines 679--680
+Overfull \hbox (1.07977pt too wide) in paragraph at lines 680--681
  [] 
  []
 
 [28 <./pics/10.png>]
+<pics/17.png, id=140, 820.2645pt x 202.95825pt>
+File: pics/17.png Graphic file (type png)
+<use pics/17.png>
+Package pdftex.def Info: pics/17.png  used on input line 685.
+(pdftex.def)             Requested size: 492.16249pt x 121.77588pt.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 683.
-
-<pics/15.png, id=140, 1433.355pt x 375.4025pt>
-File: pics/15.png Graphic file (type png)
-<use pics/15.png>
-Package pdftex.def Info: pics/15.png  used on input line 708.
-(pdftex.def)             Requested size: 516.00742pt x 135.14479pt.
-
-Overfull \hbox (29.7498pt too wide) in paragraph at lines 708--709
+Overfull \hbox (5.90488pt too wide) in paragraph at lines 685--686
  [] 
  []
 
-[29 <./pics/14.png> <./pics/15.png>] [30]
-Overfull \hbox (7.7977pt too wide) in paragraph at lines 714--753
+[29 <./pics/14.png> <./pics/17.png>] [30]
+<pics/15.png, id=150, 1433.355pt x 375.4025pt>
+File: pics/15.png Graphic file (type png)
+<use pics/15.png>
+Package pdftex.def Info: pics/15.png  used on input line 741.
+(pdftex.def)             Requested size: 473.00862pt x 123.8832pt.
+ [31]
+
+LaTeX Warning: Citation '21' on page 32 undefined on input line 746.
+
+<pics/16.png, id=154, 403.5075pt x 211.38976pt>
+File: pics/16.png Graphic file (type png)
+<use pics/16.png>
+Package pdftex.def Info: pics/16.png  used on input line 748.
+(pdftex.def)             Requested size: 403.50652pt x 211.38922pt.
+[32 <./pics/15.png>] [33 <./pics/16.png>]
+Overfull \hbox (7.7977pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 5.  Beklemysheva, K.A., Danilov, A.A., Petrov, I.B., Salamat
 ova, V.Yu., Vassilevski,
  []
 
 
-Overfull \hbox (29.14227pt too wide) in paragraph at lines 714--753
+Overfull \hbox (29.14227pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 6.  Vasyukov A. V., Petrov I. B. Grid-characteristic method 
 on tetrahedral unstructured
  []
 
 
-Overfull \hbox (2.01683pt too wide) in paragraph at lines 714--753
+Overfull \hbox (2.01683pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 9.  Го-лу-бев В. И., Пет-ров И. Б., Хох-лов Н. И. Ком-пакт-н
 ые сеточно-характерис-
  []
 
 
-Overfull \hbox (3.83337pt too wide) in paragraph at lines 714--753
+Overfull \hbox (3.83337pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 characteristic schemes for linear advection //Russian Journa
 l of Numerical Analysis
  []
 
 
-Overfull \hbox (5.47224pt too wide) in paragraph at lines 714--753
+Overfull \hbox (5.47224pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 Elastic Wave Propagation in Geological Media: Intercompariso
 n of Three Numerical
  []
 
 
-Overfull \hbox (6.89505pt too wide) in paragraph at lines 714--753
+Overfull \hbox (6.89505pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 Methods. Computational Mathematics and Mathematical Physics 
 56 (6), 10861095
  []
 
 
-Overfull \hbox (11.6604pt too wide) in paragraph at lines 714--753
+Overfull \hbox (11.6604pt too wide) in paragraph at lines 754--795
 \T2A/cmr/m/up/14.4 Vasyukov, A.: Numerical simulation of aberrated medical ultr
 asound signals. Russian
  []
 
-[31] [32] [33] (dipl.aux)
+[34] [35] [36] (dipl.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1270,13 +1281,13 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15338 strings out of 480799
- 261902 string characters out of 2896251
- 962415 words of memory out of 3000000
- 31062 multiletter control sequences out of 15000+200000
+ 15350 strings out of 480799
+ 262062 string characters out of 2896251
+ 962421 words of memory out of 3000000
+ 31072 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 44i,18n,46p,3758b,1703s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,46p,4566b,1703s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
 m0700.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
 600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
@@ -1298,9 +1309,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on dipl.pdf (34 pages, 2144846 bytes).
+Output written on dipl.pdf (37 pages, 2404350 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
+ 607 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
