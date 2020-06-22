@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  22 JUN 2020 02:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.30)  22 JUN 2020 10:40
 entering extended mode
 **./dipl.tex
 (dipl.tex
@@ -1221,44 +1221,50 @@ File: pics/16.png Graphic file (type png)
 <use pics/16.png>
 Package pdftex.def Info: pics/16.png  used on input line 752.
 (pdftex.def)             Requested size: 403.50652pt x 211.38922pt.
-[33 <./pics/15.png>] [34 <./pics/18.png> <./pics/16.png>] [35]
-Overfull \hbox (7.7977pt too wide) in paragraph at lines 759--800
+[33 <./pics/15.png>]
+<pics/19.png, id=160, 376.40625pt x 183.68625pt>
+File: pics/19.png Graphic file (type png)
+<use pics/19.png>
+Package pdftex.def Info: pics/19.png  used on input line 756.
+(pdftex.def)             Requested size: 376.40532pt x 183.68578pt.
+ [34 <./pics/18.png> <./pics/16.png>] [35 <./pics/19.png>]
+Overfull \hbox (7.7977pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 5.  Beklemysheva, K.A., Danilov, A.A., Petrov, I.B., Salamat
 ova, V.Yu., Vassilevski,
  []
 
 
-Overfull \hbox (29.14227pt too wide) in paragraph at lines 759--800
+Overfull \hbox (29.14227pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 6.  Vasyukov A. V., Petrov I. B. Grid-characteristic method 
 on tetrahedral unstructured
  []
 
 
-Overfull \hbox (2.01683pt too wide) in paragraph at lines 759--800
+Overfull \hbox (2.01683pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 9.  Го-лу-бев В. И., Пет-ров И. Б., Хох-лов Н. И. Ком-пакт-н
 ые сеточно-характерис-
  []
 
 
-Overfull \hbox (3.83337pt too wide) in paragraph at lines 759--800
+Overfull \hbox (3.83337pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 characteristic schemes for linear advection //Russian Journa
 l of Numerical Analysis
  []
 
 
-Overfull \hbox (5.47224pt too wide) in paragraph at lines 759--800
+Overfull \hbox (5.47224pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 Elastic Wave Propagation in Geological Media: Intercompariso
 n of Three Numerical
  []
 
 
-Overfull \hbox (6.89505pt too wide) in paragraph at lines 759--800
+Overfull \hbox (6.89505pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 Methods. Computational Mathematics and Mathematical Physics 
 56 (6), 10861095
  []
 
 
-Overfull \hbox (11.6604pt too wide) in paragraph at lines 759--800
+Overfull \hbox (11.6604pt too wide) in paragraph at lines 763--804
 \T2A/cmr/m/up/14.4 Vasyukov, A.: Numerical simulation of aberrated medical ultr
 asound signals. Russian
  []
@@ -1271,9 +1277,6 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                dipl
 (biblatex)                and rerun LaTeX afterwards.
@@ -1283,10 +1286,10 @@ Package logreq Info: Writing requests to 'dipl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15356 strings out of 480799
- 262142 string characters out of 2896251
+ 15362 strings out of 480799
+ 262222 string characters out of 2896251
  962421 words of memory out of 3000000
- 31077 multiletter control sequences out of 15000+200000
+ 31082 multiletter control sequences out of 15000+200000
  546539 words of font info for 55 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,18n,46p,5739b,1703s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1311,9 +1314,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on dipl.pdf (38 pages, 2435382 bytes).
+Output written on dipl.pdf (38 pages, 2450256 bytes).
 PDF statistics:
- 611 PDF objects out of 1000 (max. 8388607)
+ 613 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
